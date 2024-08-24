@@ -1,0 +1,79 @@
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.deps.json
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.runtimeconfig.json
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.runtimeconfig.dev.json
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.dll
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.pdb
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.Views.dll
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.Views.pdb
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.csproj.AssemblyReference.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.AssemblyInfoInputs.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.AssemblyInfo.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorAssemblyInfo.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorAssemblyInfo.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.TagHelpers.input.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.TagHelpers.output.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorCoreGenerate.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Chamados\Cadastrar.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Chamados\Listar.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Listar.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorTargetAssemblyInfo.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorTargetAssemblyInfo.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.Views.pdb
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.dll
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.pdb
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.genruntimeconfig.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_D.AB0E2FFF.Up2Date
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.deps.json
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.runtimeconfig.json
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.runtimeconfig.dev.json
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.Views.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.Views.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.AssemblyInfoInputs.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.AssemblyInfo.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.csproj.CoreCompileInputs.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorAssemblyInfo.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorAssemblyInfo.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.TagHelpers.input.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.TagHelpers.output.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorCoreGenerate.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorTargetAssemblyInfo.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.RazorTargetAssemblyInfo.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.Views.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.csproj.AssemblyReference.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\bin\Debug\netcoreapp2.1\appsettings.json
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Chamados\Cadastrar.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Chamados\Listar.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Cadastrar.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Listar.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.genruntimeconfig.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_D.AB0E2FFF.Up2Date

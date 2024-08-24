@@ -1,0 +1,17 @@
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\Dados\DesafioDB.db
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\WebApp_Desafio_BackEnd.dll.config
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\WebApp_Desafio_BackEnd.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\WebApp_Desafio_BackEnd.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\EntityFramework.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\System.Data.SQLite.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\System.Data.SQLite.EF6.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\System.Data.SQLite.Linq.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\EntityFramework.xml
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\System.Data.SQLite.xml
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csproj.CoreCompileInputs.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csprojAssemblyReference.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csproj.CopyComplete

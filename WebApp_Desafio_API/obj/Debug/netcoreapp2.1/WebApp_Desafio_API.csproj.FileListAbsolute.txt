@@ -1,0 +1,28 @@
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.csproj.AssemblyReference.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.AssemblyInfoInputs.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.AssemblyInfo.cs
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.csproj.CoreCompileInputs.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.RazorAssemblyInfo.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.RazorAssemblyInfo.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\Dados\DesafioDB.db
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_API.deps.json
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_API.runtimeconfig.json
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_API.runtimeconfig.dev.json
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_API.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_API.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_API.xml
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_BackEnd.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_BackEnd.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\bin\Debug\netcoreapp2.1\WebApp_Desafio_BackEnd.dll.config
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.AssemblyInfoInputs.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.AssemblyInfo.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.csproj.CoreCompileInputs.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.RazorAssemblyInfo.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.RazorAssemblyInfo.cs
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.RazorTargetAssemblyInfo.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.dll
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.xml
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.csprojAssemblyReference.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.csproj.CopyComplete

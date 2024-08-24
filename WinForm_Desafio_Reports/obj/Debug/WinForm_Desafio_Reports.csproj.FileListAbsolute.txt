@@ -1,0 +1,18 @@
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.exe.config
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.exe
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.pdb
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.AssemblyReference.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.Properties.Resources.resources
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.GenerateResource.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.CoreCompileInputs.cache
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.exe
+C:\Users\sar10512\OneDrive - Serviço Nacional de Aprendizagem Comercial - Minas Gerais\Documentos\Estudos\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.exe.config
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.exe
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.Properties.Resources.resources
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.GenerateResource.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.CoreCompileInputs.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.exe
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.pdb
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.AssemblyReference.cache
