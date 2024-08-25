@@ -11,7 +11,6 @@
             { data: 'Departamento' },
             { data: 'DataAberturaWrapper', title: 'Data Abertura' }
         ],
-        // Desativa o campo de busca interno da DataTables
         dom: 't'
     });
 
@@ -26,8 +25,8 @@
                 success: function (data) {
                     var formattedData = data.data.map(function (item) {
                         return {
-                            label: item.Solicitante, // O texto exibido no autocomplete
-                            value: item.Solicitante  // O valor usado quando o item é selecionado
+                            label: item.Solicitante,
+                            value: item.Solicitante
                         };
                     });
                     response(formattedData);
@@ -39,25 +38,37 @@
         },
         minLength: 3,
         select: function (event, ui) {
+            
             $.ajax({
                 url: config.contextPath + 'Chamados/Datatable',
                 dataType: "json",
                 data: {
-                    termo: ui.item.value
+                    termo: ui.item.value 
                 },
                 success: function (data) {
-                    var formattedData = {
-                        draw: 1,
-                        recordsTotal: data.data.length,
-                        recordsFiltered: data.data.length,
-                        data: data.data
-                    };
-                    console.log("data", data)
-                    // Atualiza a tabela com os dados filtrados
-                    table.clear().rows.add(formattedData.data).draw();
+                    var formattedData = data.data.filter(function (item) {
+                        return item.Solicitante === ui.item.value;
+                    });
+
+                    table.clear().rows.add(formattedData).draw();
                 },
                 error: function (xhr, status, error) {
                     console.error("Erro ao filtrar chamados: ", status, error);
+                }
+            });
+        }
+    });
+
+    $("#autocompleteSolicitante").on('input', function () {
+        if ($(this).val() === '') {
+            $.ajax({
+                url: config.contextPath + 'Chamados/Datatable',
+                dataType: "json",
+                success: function (data) {
+                    table.clear().rows.add(data.data).draw();
+                },
+                error: function (xhr, status, error) {
+                    console.error("Erro ao obter todos os chamados: ", status, error);
                 }
             });
         }

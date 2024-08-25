@@ -10,12 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="wwwroot\reports\rptDepartamentos.rdlc">
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="AspNetCore.Reporting" Version="2.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
@@ -26,6 +20,12 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\lib\bootstrap-datepicker\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\reports\rptDepartamentos.rdlc">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
 
 </Project>

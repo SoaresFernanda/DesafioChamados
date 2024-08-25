@@ -13,5 +13,5 @@ C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\Syst
 C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csproj.CoreCompileInputs.cache
 C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.dll
 C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.pdb
-C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csprojAssemblyReference.cache
-C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csproj.CopyComplete
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csproj.AssemblyReference.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_D.8EC59D4C.Up2Date

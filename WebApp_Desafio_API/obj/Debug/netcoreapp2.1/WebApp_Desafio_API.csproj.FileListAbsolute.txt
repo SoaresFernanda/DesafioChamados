@@ -26,3 +26,6 @@ C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcorea
 C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.pdb
 C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.csprojAssemblyReference.cache
 C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.csproj.CopyComplete
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.csproj.AssemblyReference.cache
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\netspeed\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_API\obj\Debug\netcoreapp2.1\WebApp_Desafio_API.sourcelink.json

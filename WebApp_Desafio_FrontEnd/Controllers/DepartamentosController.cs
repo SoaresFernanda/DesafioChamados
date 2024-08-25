@@ -151,7 +151,6 @@ namespace WebApp_Desafio_FrontEnd.Controllers
 
             ReportResult reportResult = localReport.Execute(RenderType.Pdf);
 
-            //return File(reportResult.MainStream, "application/pdf");
             return File(reportResult.MainStream, "application/octet-stream", "rptDepartamentos.pdf");
 
         }
